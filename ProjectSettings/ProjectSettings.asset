@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
+<<<<<<< HEAD
   productGUID: d5e22df2178e813439b0dcf3d5c98518
+=======
+  productGUID: 71bc4fb572faccd48a33787e4023fd35
+>>>>>>> db98f9fc2a3de8b61f2865fdc5a1ebd77792b5e0
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +17,11 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
+<<<<<<< HEAD
   productName: UnityGameProject
+=======
+  productName: UnityGame
+>>>>>>> db98f9fc2a3de8b61f2865fdc5a1ebd77792b5e0
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -626,14 +634,22 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
+<<<<<<< HEAD
   metroPackageName: UnityGameProject
+=======
+  metroPackageName: UnityGame
+>>>>>>> db98f9fc2a3de8b61f2865fdc5a1ebd77792b5e0
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
+<<<<<<< HEAD
   metroApplicationDescription: UnityGameProject
+=======
+  metroApplicationDescription: UnityGame
+>>>>>>> db98f9fc2a3de8b61f2865fdc5a1ebd77792b5e0
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -701,11 +717,19 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
+<<<<<<< HEAD
   cloudProjectId: 9c04830b-4fd2-434e-99b9-06ff6df75b61
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: UnityGameProject 2023-12-01_00-06-17
   organizationId: hollerjanika
+=======
+  cloudProjectId: 88b1d339-43d0-47ba-b755-79675461faab
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: UnityGame
+  organizationId: glau22
+>>>>>>> db98f9fc2a3de8b61f2865fdc5a1ebd77792b5e0
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
